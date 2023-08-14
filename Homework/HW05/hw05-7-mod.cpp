@@ -32,4 +32,5 @@ int main() {
     }else {
         printf("February has 28 days");
     }
+    return 0;
 }
